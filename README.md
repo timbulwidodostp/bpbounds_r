@@ -5,6 +5,8 @@ Balke-Pearl nonparametric bounds for the average causal effect implemented Use b
 
 Nonparametric bounds for the causal effect in a binary instrumental variable model Use bpbounds With (In) R Software
 
+https://www.youtube.com/watch?v=A3SWnbz6qBc
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
